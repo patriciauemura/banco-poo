@@ -1,0 +1,1 @@
+Exercício para entender POO em Java por meio da criação de uma aplicação e utilizando os conceitos de abstração, encapsulamento, herança, polimorfismo.
